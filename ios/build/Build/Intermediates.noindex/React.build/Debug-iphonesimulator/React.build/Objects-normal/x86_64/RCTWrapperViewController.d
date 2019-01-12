@@ -1,0 +1,19 @@
+dependencies: \
+  /Users/hatemalimam/Projects/RNPosedExample/node_modules/react-native/React/Views/RCTWrapperViewController.m \
+  /Users/hatemalimam/Projects/RNPosedExample/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/hatemalimam/Projects/RNPosedExample/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/hatemalimam/Projects/RNPosedExample/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/hatemalimam/Projects/RNPosedExample/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/hatemalimam/Projects/RNPosedExample/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/hatemalimam/Projects/RNPosedExample/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/hatemalimam/Projects/RNPosedExample/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/hatemalimam/Projects/RNPosedExample/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/hatemalimam/Projects/RNPosedExample/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/hatemalimam/Projects/RNPosedExample/node_modules/react-native/React/Views/RCTNavItem.h \
+  /Users/hatemalimam/Projects/RNPosedExample/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/hatemalimam/Projects/RNPosedExample/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/hatemalimam/Projects/RNPosedExample/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/hatemalimam/Projects/RNPosedExample/node_modules/react-native/React/Views/UIView+React.h \
+  /Users/hatemalimam/Projects/RNPosedExample/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGEnums.h \
+  /Users/hatemalimam/Projects/RNPosedExample/ios/build/Build/Products/Debug-iphonesimulator/include/yoga/YGMacros.h \
+  /Users/hatemalimam/Projects/RNPosedExample/node_modules/react-native/React/Views/RCTAutoInsetsProtocol.h
