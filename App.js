@@ -16,7 +16,7 @@ export default class App extends Component<Props> {
     const { isVisible } = this.state;
     return (
       <View style={styles.container}>
-        <Box isVisible={isVisible ? "visible" : "hidden"} />
+        <Box isVisible={isVisible} />
         <TouchableOpacity
           onPress={() => {
             this.setState({
